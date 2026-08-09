@@ -1,0 +1,23 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # jalan otomatis tiap hari jam 00:30 UTC
+  workflow_dispatch: {} # bisa dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: azriel-ae
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          exclude_repos:
+          exclude_langs:
