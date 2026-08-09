@@ -6,16 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azrielaurizal.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azrielaurizal27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azriel-ae)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azrieledn)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=azriel-ae&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/azriel-ae?style=for-the-badge&color=F97316&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/azriel-ae?style=for-the-badge&color=16A34A&labelColor=1a1a2e)
 
 </div>
 
@@ -47,17 +39,11 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 </p>
 
-### Skill Level
+### Most Used Languages
 
-| # | Skill | Proficiency |
-|---|---|---|
-| 1 | MySQL | ![](https://progress-bar.dev/30/?title=&width=200&color=4479A1) |
-| 2 | PostgreSQL | ![](https://progress-bar.dev/25/?title=&width=200&color=336791) |
-| 3 | HTML | ![](https://progress-bar.dev/20/?title=&width=200&color=E34F26) |
-| 4 | CSS | ![](https://progress-bar.dev/15/?title=&width=200&color=1572B6) |
-| 5 | JavaScript | ![](https://progress-bar.dev/10/?title=&width=200&color=F7DF1E) |
-
-> Total 100%, dibagi 30/25/20/15/10 dari tertinggi ke terendah — beri tahu saya kalau kamu mau angka lain.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azriel-ae&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&text_color=c9c9c9"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -65,12 +51,8 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azriel-ae&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&icon_color=2563EB&text_color=c9c9c9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=azriel-ae&theme=radical&hide_border=true&background=1a1a2e&ring=2563EB&fire=F97316&currStreakLabel=F97316"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azriel-ae&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&text_color=c9c9c9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=azriel-ae&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&icon_color=2563EB&text_color=c9c9c9&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=azriel-ae&theme=radical&hide_border=true&background=1a1a2e&ring=2563EB&fire=F97316&currStreakLabel=F97316"/>
 
 <br/>
 
@@ -86,19 +68,18 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## Connect With Me
+## Socials
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azrielaurizal27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azriel-ae)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azrieledn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azrielaurizal.vercel.app)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<div align="center">
+<i>"Code with purpose, build with precision."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,12,24&section=footer"/>
 </div>
