@@ -42,7 +42,7 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 ### Most Used Languages
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azriel-ae&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&text_color=c9c9c9"/>
+<img src="https://raw.githubusercontent.com/azriel-ae/azriel-ae/main/generated/languages.svg"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -51,7 +51,7 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azriel-ae&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&icon_color=2563EB&text_color=c9c9c9&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://raw.githubusercontent.com/azriel-ae/azriel-ae/main/generated/overview.svg"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=azriel-ae&theme=radical&hide_border=true&background=1a1a2e&ring=2563EB&fire=F97316&currStreakLabel=F97316"/>
 
 <br/>
@@ -77,6 +77,9 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<div align="center">
+<i>"Code with purpose, build with precision."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,12,24&section=footer"/>
 </div>
