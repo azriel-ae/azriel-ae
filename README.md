@@ -99,8 +99,6 @@ Saya Azriel, developer asal Indonesia yang suka membangun website dari database 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<div align="center">
-<i>"Code with purpose, build with precision."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,12,24&section=footer"/>
 </div>
