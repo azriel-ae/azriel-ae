@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch: {}    # allows manual run from Actions tab
+    - cron: "0 0 * * *" # jalan otomatis setiap hari jam 00:00 UTC
+  workflow_dispatch: {} # bisa dijalankan manual dari tab Actions
   push:
     branches:
       - main
@@ -14,15 +14,15 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: azriel-ae
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push output to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
