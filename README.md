@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,24&text=Azriel%20Aurizal%20Ednisia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Clean%2C%20Scalable%20Web%20Apps&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=560&lines=HTML+%7C+CSS+%7C+JavaScript;Node.js+%7C+MySQL+%7C+PostgreSQL" alt="Typing SVG" />
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Location-Indonesia-2563EB?style=for-the-badge&labelColor=1a1a2e)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=560&lines=HTML+%7C+CSS+%7C+JavaScript;MySQL+%7C+PostgreSQL" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +23,7 @@
 
 ## About Me
 
-Developer yang suka membangun aplikasi web dari database sampai tampilan. Fokus pada kode yang rapi dan mudah dirawat. 🌱
+Saya Azriel, developer asal Indonesia yang suka membangun website dari database sampai tampilan depan, dengan fokus pada kode yang rapi dan mudah dirawat. 🌱
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -39,10 +35,10 @@ Developer yang suka membangun aplikasi web dari database sampai tampilan. Fokus 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
-**Backend & Databases**
+**Databases**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
 **Tooling**
@@ -55,14 +51,13 @@ Developer yang suka membangun aplikasi web dari database sampai tampilan. Fokus 
 
 | # | Skill | Proficiency |
 |---|---|---|
-| 1 | MySQL | ![](https://progress-bar.dev/90/?title=&width=200&color=4479A1) |
-| 2 | PostgreSQL | ![](https://progress-bar.dev/85/?title=&width=200&color=336791) |
-| 3 | HTML | ![](https://progress-bar.dev/90/?title=&width=200&color=E34F26) |
-| 4 | CSS | ![](https://progress-bar.dev/85/?title=&width=200&color=1572B6) |
-| 5 | JavaScript | ![](https://progress-bar.dev/80/?title=&width=200&color=F7DF1E) |
-| 6 | Node.js | ![](https://progress-bar.dev/80/?title=&width=200&color=339933) |
+| 1 | MySQL | ![](https://progress-bar.dev/30/?title=&width=200&color=4479A1) |
+| 2 | PostgreSQL | ![](https://progress-bar.dev/25/?title=&width=200&color=336791) |
+| 3 | HTML | ![](https://progress-bar.dev/20/?title=&width=200&color=E34F26) |
+| 4 | CSS | ![](https://progress-bar.dev/15/?title=&width=200&color=1572B6) |
+| 5 | JavaScript | ![](https://progress-bar.dev/10/?title=&width=200&color=F7DF1E) |
 
-> Angka persentase di atas adalah perkiraan — beri tahu saya kalau kamu mau saya sesuaikan.
+> Total 100%, dibagi 30/25/20/15/10 dari tertinggi ke terendah — beri tahu saya kalau kamu mau angka lain.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -77,12 +72,10 @@ Developer yang suka membangun aplikasi web dari database sampai tampilan. Fokus 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azriel-ae&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F97316&text_color=c9c9c9"/>
 
-</div>
+<br/>
 
-### Contribution Activity
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=azriel-ae&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=F97316&line=2563EB&point=ffffff"/>
+
 </div>
 
 ### Contribution Snake
