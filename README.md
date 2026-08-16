@@ -15,7 +15,7 @@
 
 ## About Me
 
-Saya Azriel, developer asal Indonesia yang suka membangun website dari database sampai tampilan depan, dengan fokus pada kode yang rapi dan mudah dirawat. 🌱
+Saya Azriel, developer asal Indonesia yang suka membangun website dari database sampai tampilan depan, dengan fokus pada kode yang rapi dan mudah dirawat.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
